@@ -1,2 +1,0 @@
-# -FULLSTACK
-Practical Assignment
